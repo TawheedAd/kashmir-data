@@ -1,1 +1,5 @@
-﻿{"name":"Srinagar","location":"Srinagar, Kashmir","description":"Summer capital of Jammu & Kashmir, famous for Dal Lake."}
+﻿{
+  "name": "Srinagar",
+  "location": "Srinagar, Kashmir",
+  "tagline": "The Venice of the East"
+}
